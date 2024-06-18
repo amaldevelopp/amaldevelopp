@@ -1,7 +1,12 @@
 
 ### <div align="center">i'm Amal . I find my flow in the fluidity of coding - where creativity converges with logic to craft innovative solutions</div>  
   
+<div align="center">
+<img src="https://i.pinimg.com/564x/d4/79/cc/d479cc3a395f94c59d381b8f71afaf9d.jpg" align="center" style="width: 100%" />
+</div>  
+  
 
+<br/>  
 - ❓Python-related inquiries? Fire away, I'm happy to discuss  
   
 
